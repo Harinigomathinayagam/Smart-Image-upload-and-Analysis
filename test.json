@@ -1,0 +1,14 @@
+{
+  "Records": [
+    {
+      "s3": {
+        "bucket": {
+          "name": "smart-image-analysis-bucket"
+        },
+        "object": {
+          "key": "puppy.jpg"
+        }
+      }
+    }
+  ]
+}
